@@ -1,0 +1,10 @@
+{
+	"server": {
+		"port": 3339
+	},
+	"mongo": {
+		"host": "localhost",
+		"port": 27017,
+		"db": "geodata"
+	}
+}
